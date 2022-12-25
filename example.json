@@ -1,0 +1,1412 @@
+{
+  "props": {
+    "pageProps": {
+      "readerId": "",
+      "contactId": "",
+      "pageUrl": "https://www.economist.com/united-states/2022/12/24/how-america-defies-expectations",
+      "domain": "https://www.economist.com",
+      "auth": {
+        "loggedIn": false,
+        "verified": false,
+        "isAnonymous": true,
+        "isSubscriber": false,
+        "bulkSubscriber": false,
+        "userType": "anonymous"
+      },
+      "pageType": "ARTICLE",
+      "isSubscriber": false,
+      "region": "US",
+      "content": {
+        "url": {
+          "canonical": "https://www.economist.com/united-states/2022/12/24/how-america-defies-expectations",
+          "__typename": "URL"
+        },
+        "__typename": "Content",
+        "id": "/content/6dgmfqcij4gc16gi833ucg73lkauvgh3",
+        "tegID": "6dgmfqcij4gc16gi833ucg73lkauvgh3",
+        "type": ["Article", "NewsArticle", "AnalysisNewsArticle"],
+        "headline": "How America defies expectations",
+        "subheadline": "An abnormal year",
+        "seoPageTitle": null,
+        "seoMetadataDescription": null,
+        "ad": {
+          "grapeshot": {
+            "channels": [
+              {
+                "name": "gs_politics",
+                "score": 10.74,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_campaigns_elections",
+                "score": 9.377,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "programmatic_workdayblocklist",
+                "score": 8.771,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "chanel_neg",
+                "score": 8.567,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "ibm_blacklist",
+                "score": 8.197,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "neg_omd_exclusion",
+                "score": 7.134,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_politics_misc",
+                "score": 6.465,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "legal_law",
+                "score": 5.763,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "fidelity_blacklist",
+                "score": 5.174,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "america_supreme_court",
+                "score": 5.14,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gs_politics_american",
+                "score": 5.023,
+                "__typename": "GrapeshotChannel"
+              },
+              {
+                "name": "gv_crime",
+                "score": 1.16,
+                "__typename": "GrapeshotChannel"
+              }
+            ],
+            "__typename": "Grapeshot"
+          },
+          "__typename": "Ad"
+        },
+        "audio": null,
+        "image": {
+          "main": {
+            "url": {
+              "canonical": "https://www.economist.com/media-assets/image/20221224_USP504.jpg",
+              "__typename": "URL"
+            },
+            "__typename": "Content",
+            "height": 720,
+            "width": 1280,
+            "description": "WASHINGTON, DC - AUGUST 16: U.S. President Joe Biden (C) signs The Inflation Reduction Act with (L-R) Sen. Joe Manchin (D-WV), Senate Majority Leader Charles Schumer (D-NY), House Majority Whip James Clyburn (D-SC), Rep. Frank Pallone (D-NJ) and Rep. Kathy Catsor (D-FL) in the State Dining Room of the White House August 16, 2022 in Washington, DC. The $737 billion bill focuses on climate change, lower health care costs and creating clean energy jobs by enacting a 15% corporate minimum tax, a 1-percent fee on stock buybacks and enhancing IRS enforcement. (Photo by Drew Angerer/Getty Images)"
+          },
+          "promo": null,
+          "__typename": "Media"
+        },
+        "description": "In many ways the country has had an exceptional year",
+        "datePublished": "2022-12-24T15:15:20Z",
+        "dateModified": "2022-12-24T15:15:20Z",
+        "dateModifiedString": "Dec 24th 2022",
+        "datePublishedString": "Dec 24th 2022",
+        "dateCreated": "2022-12-24T15:04:17Z",
+        "copyrightYear": 2022,
+        "inLanguage": "en",
+        "byline": "",
+        "dateline": null,
+        "text": [
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "type": "tag",
+                "name": "span",
+                "attribs": { "data-caps": "initial" },
+                "children": [{ "data": "G", "type": "text" }]
+              },
+              {
+                "type": "tag",
+                "name": "small",
+                "attribs": {},
+                "children": [{ "data": "RIDLOCK IS OFTEN", "type": "text" }]
+              },
+              {
+                "data": " the norm in today’s hyper-partisan America. Even when the same party controls both Congress and the White House, as the Democrats have done for the past two years, the need to muster a filibuster-proof three-fifths majority in the Senate for most laws (except some budget bills) tends to bring things to a standstill. Yet in that sense 2022 was an abnormal year: the Biden administration managed to get the legislative traffic moving, with big implications for the future. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "It mustered a bipartisan majority to pass the ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/07/29/america-takes-on-china-with-a-giant-microchips-bill"
+                },
+                "children": [
+                  {
+                    "type": "tag",
+                    "name": "small",
+                    "attribs": {},
+                    "children": [{ "data": "CHIPS", "type": "text" }]
+                  },
+                  { "data": " and Science Act", "type": "text" }
+                ]
+              },
+              {
+                "data": ", a $280bn effort to shore up America’s microchips industry, thanks to growing wariness of China. After unsuccessfully pushing a grand economic redesign of America, the administration eventually compromised enough to overcome the resistance of Joe Manchin of West Virginia, often the swing Democrat in a 50-50 Senate, to pass a more modest, inaptly named ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/08/09/joe-bidens-signature-legislation-passes-the-senate-at-last"
+                },
+                "children": [
+                  { "data": "Inflation Reduction Act", "type": "text" }
+                ]
+              },
+              {
+                "data": ", promising spending of $369bn over a decade. Its climate spending will be the most substantial in American history (in a year when disasters from ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/the-world-ahead/2022/11/18/americas-reservoirs-are-drying-up"
+                },
+                "children": [{ "data": "drought in the West", "type": "text" }]
+              },
+              { "data": " to ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/09/29/hurricane-ian-pummels-florida"
+                },
+                "children": [{ "data": "Hurricane Ian", "type": "text" }]
+              },
+              {
+                "data": " in the East, to a nationwide winter storm at Christmas, served as a reminder of climate perils). Together with an ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/joe-biden-passes-the-less-contentious-half-of-his-legislative-agenda/21806187"
+                },
+                "children": [
+                  { "data": "infrastructure package", "type": "text" }
+                ]
+              },
+              {
+                "data": " passed in November 2021, the trio of bills will make for annual spending of nearly $100bn on industrial policy, by one reckoning. America could end up spending more, as a share of ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "small",
+                "attribs": {},
+                "children": [{ "data": "GDP", "type": "text" }]
+              },
+              { "data": ", on ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/09/13/joe-bidens-industrial-policy-is-big-bold-and-fraught-with-difficulty"
+                },
+                "children": [{ "data": "industrial policy", "type": "text" }]
+              },
+              {
+                "data": " than unabashed champions of the practice such as France, Germany and Japan. They and other allies are already starting to fret about the protectionism that ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/10/27/the-risks-of-bidenomics-go-beyond-inflation"
+                },
+                "children": [{ "data": "Bidenomics", "type": "text" }]
+              },
+              { "data": " could bring about.", "type": "text" }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "Economic initiatives were not the only ones that overcame gridlock. For the first time in three decades Congress summoned the will to pass (albeit modest) ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/06/13/americas-senators-manage-to-reach-a-deal-on-gun-control"
+                },
+                "children": [{ "data": "gun-control measures", "type": "text" }]
+              },
+              { "data": ", after the horror of a ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/05/25/the-spate-of-gun-violence-shows-american-exceptionalism-at-its-worst"
+                },
+                "children": [{ "data": "school shooting", "type": "text" }]
+              },
+              {
+                "data": " on May 24th in Uvalde, Texas, in which 21 people died, including 19 children. At the end of the year, in Congress’s lame-duck session, it secured federal protection for ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/12/10/gay-marriage-becomes-the-law-of-the-land-in-america"
+                },
+                "children": [{ "data": "same-sex marriage", "type": "text" }]
+              },
+              {
+                "data": ", ensuring that gay unions are not dependent on the make-up of the Supreme Court.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "Crucially, too, America maintained a bipartisan consensus in response to Vladimir Putin’s ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/05/19/the-quiet-ukraine-consensus"
+                },
+                "children": [{ "data": "invasion of Ukraine", "type": "text" }]
+              },
+              {
+                "data": ". In the build-up to Mr Putin’s attack the administration made bold and unusually public ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/02/26/deploying-reality-against-putin"
+                },
+                "children": [{ "data": "use of intelligence", "type": "text" }]
+              },
+              {
+                "data": " to flag his plans, deploying the truth against Russian disinformation. Republicans quickly returned to their senses on Russia, shunning the right’s ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/03/05/the-end-of-the-putin-delusion"
+                },
+                "children": [{ "data": "Putin fandom", "type": "text" }]
+              },
+              {
+                "data": ". Despite some misgivings, and ongoing warnings that with a Republican majority in the House of Representatives there will be no “blank cheque”, Congress has approved large dollops–roughly $100bn so far–of ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/07/17/is-america-growing-weary-of-the-long-war-in-ukraine"
+                },
+                "children": [{ "data": "aid for Ukraine", "type": "text" }]
+              },
+              { "data": ". ", "type": "text" }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "None of this means that partisan divisions have become any less significant. On the contrary, in some ways the country looks ever more like the ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs"
+                },
+                "children": [
+                  { "data": "Disunited States of America", "type": "text" }
+                ]
+              },
+              {
+                "data": ", with states diverging fundamentally on policies such as abortion, immigration and environmental rules. State by state, the gap between red and blue blocs has grown wider. On cultural matters, including the teaching of ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/interactive/united-states/2022/07/14/critical-race-theory-is-being-weaponised-whats-the-fuss-about"
+                },
+                "children": [{ "data": "critical race theory", "type": "text" }]
+              },
+              {
+                "data": " in schools, activists on both sides have managed to turn it into a chasm.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "And then there is the Supreme Court. In 2022 it faced a growing ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/briefing/2022/05/07/americas-supreme-court-faces-a-crisis-of-legitimacy"
+                },
+                "children": [{ "data": "crisis of legitimacy", "type": "text" }]
+              },
+              {
+                "data": ": in June just 25% of Americans said they had confidence in the court, an all-time low. That month, in its decision on ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/06/29/the-supreme-courts-judicial-activism-will-deepen-cracks-in-america"
+                },
+                "children": [
+                  {
+                    "type": "tag",
+                    "name": "i",
+                    "attribs": {},
+                    "children": [
+                      {
+                        "data": "Dobbs v Jackson Women’s Health Organisation",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": ", it overturned the constitutional right to abortion that had been established in 1973 in ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "i",
+                "attribs": {},
+                "children": [{ "data": "Roe v Wade", "type": "text" }]
+              },
+              {
+                "data": ". For the first time in half a century, it no longer has a 5-4 split, with a swing vote in the middle, but a 6-3 conservative majority thanks to the three justices appointed under Donald Trump’s presidency. Over the past year the consequences have proved to be dramatic—and not just for abortion. In a ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/06/30/scotus-an-end-of-term-report"
+                },
+                "children": [{ "data": "radical term", "type": "text" }]
+              },
+              {
+                "data": ", the court weakened gun controls, eroded the separation of church and state and limited the Environmental Protection Agency’s ability to regulate emissions from power plants. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "The composition of the court changed in 2022, but not its conservative-liberal split. President Joe Biden successfully replaced one liberal justice with another, following the retirement of Stephen Breyer, and made history in the process. ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/02/25/joe-biden-nominates-ketanji-brown-jackson-to-the-supreme-court"
+                },
+                "children": [
+                  { "data": "Ketanji Brown Jackson", "type": "text" }
+                ]
+              },
+              {
+                "data": " became the first black woman to serve on America’s highest court.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "America’s divisions were on full display in the campaign for the midterm elections in November, which were the ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/11/03/spending-in-americas-midterms-is-breaking-records"
+                },
+                "children": [{ "data": "most expensive ever", "type": "text" }]
+              },
+              { "data": ". In the primaries Donald Trump ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/08/18/will-donald-trump-run-again"
+                },
+                "children": [{ "data": "retained his grip", "type": "text" }]
+              },
+              {
+                "data": " on the Republican Party: many of the candidates the former president endorsed, including ones for vital Senate seats in ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/04/30/pennsylvanias-primaries-point-to-the-future-of-american-politics"
+                },
+                "children": [{ "data": "Pennsylvania", "type": "text" }]
+              },
+              { "data": " and ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/the-economist-explains/2022/10/14/who-is-herschel-walker"
+                },
+                "children": [{ "data": "Georgia", "type": "text" }]
+              },
+              { "data": ", won through.", "type": "text" }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "In the run-up to the general election on November 8th Republicans had plenty to campaign on. Mr Biden’s ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/president-joe-biden-polls"
+                },
+                "children": [{ "data": "approval ratings", "type": "text" }]
+              },
+              {
+                "data": " remained low. Voters were increasingly concerned about the economy, especially ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/finance-and-economics/2022/10/02/americas-economy-is-too-strong-for-its-own-good"
+                },
+                "children": [{ "data": "resurgent inflation", "type": "text" }]
+              },
+              {
+                "data": " (Mr Biden’s excessive stimulus was part of the problem, but so, too, were policy ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/04/23/why-the-federal-reserve-has-made-a-historic-mistake-on-inflation"
+                },
+                "children": [{ "data": "mistakes by the Fed", "type": "text" }]
+              },
+              {
+                "data": "). Other potent issues included immigration and the related problems at ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/10/04/the-biden-administration-is-quietly-completing-bits-of-donald-trumps-wall"
+                },
+                "children": [
+                  { "data": "America’s southern border", "type": "text" }
+                ]
+              },
+              { "data": ", rising ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/09/15/america-should-reform-its-police-forces-not-defund-them"
+                },
+                "children": [{ "data": "violent crime", "type": "text" }]
+              },
+              { "data": " and supposedly rampant wokeness. ", "type": "text" }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "For their part the Democrats were energised by fears for women’s ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/graphic-detail/2022/05/07/religion-not-gender-is-the-best-predictor-of-views-on-abortion"
+                },
+                "children": [{ "data": "right to abortion", "type": "text" }]
+              },
+              { "data": ", following the overturning of ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "i",
+                "attribs": {},
+                "children": [{ "data": "Roe", "type": "text" }]
+              },
+              { "data": ", and for the very ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/01/01/how-to-think-about-the-threat-to-american-democracy"
+                },
+                "children": [{ "data": "future of democracy", "type": "text" }]
+              },
+              {
+                "data": ", given the Republican Party’s endorsement of Mr Trump’s lies about a “stolen election” in 2020. They also pushed back against their own ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/briefing/2022/07/14/democrats-in-america-are-realising-they-must-moderate-or-die"
+                },
+                "children": [{ "data": "progressive wing", "type": "text" }]
+              },
+              {
+                "data": ", whose excesses had stirred successful ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/06/05/why-san-franciscos-clash-with-its-district-attorney-matters"
+                },
+                "children": [{ "data": "recall campaigns", "type": "text" }]
+              },
+              { "data": " in San Francisco. ", "type": "text" }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "It was widely expected that Republicans would comfortably take back control of the House of Representatives (where a typical midterm loss for the president’s party in the modern era has been about 30 seats) and perhaps of the evenly divided Senate, too. Yet in the event the Republicans only just won the House and the Democrats even picked up a seat in the Senate, thanks to wins over flawed Trumpist candidates. For all the worries in advance, America’s ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/11/10/after-the-midterms-america-and-its-democracy-look-stronger"
+                },
+                "children": [{ "data": "democracy", "type": "text" }]
+              },
+              {
+                "data": " emerged looking stronger. Voters rejected a number of prominent ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/11/09/many-republican-election-deniers-lost-their-statewide-races"
+                },
+                "children": [
+                  { "data": "Trumpist election-deniers", "type": "text" }
+                ]
+              },
+              { "data": ". And for once the ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/11/10/how-well-did-americas-pollsters-do"
+                },
+                "children": [{ "data": "opinion polls", "type": "text" }]
+              },
+              {
+                "data": ", after embarrassing misses in previous election cycles, turned out to be surprisingly accurate.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "Perhaps the biggest loser was Mr Trump. His name was not on the ballot, but many of the high-profile candidates he endorsed lost their races. Mr Trump had a terrible year, and not just by proxy at the polls. Televised congressional ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/06/16/the-criminal-case-against-donald-trump"
+                },
+                "children": [{ "data": "hearings", "type": "text" }]
+              },
+              {
+                "data": " into the riots on Capitol Hill on January 6th 2021 were designed to pin the blame firmly on him—with ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/07/06/high-noon-for-liz-cheney"
+                },
+                "children": [{ "data": "Liz Cheney", "type": "text" }]
+              },
+              {
+                "data": ", a former top Republican in the House, his main accuser. In August the FBI searched his home at ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/08/10/the-raid-on-mar-a-lago-could-shake-americas-foundations"
+                },
+                "children": [{ "data": "Mar-a-Lago", "type": "text" }]
+              },
+              {
+                "data": ", where its agents found boxes of classified documents that the former president had failed to return. In December two ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/12/07/two-trump-organisation-companies-are-found-guilty-of-tax-fraud"
+                },
+                "children": [{ "data": "Trump Organisation", "type": "text" }]
+              },
+              {
+                "data": " companies were found guilty of tax fraud, and other legal woes mounted. Mr Trump’s biggest problem, perhaps, was the emergence of a serious Republican rival in ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/11/09/the-rise-of-ron-desanctimonious"
+                },
+                "children": [{ "data": "Ron DeSantis", "type": "text" }]
+              },
+              {
+                "data": ", whose own comfortable re-election as governor of ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/leaders/2022/04/02/what-america-can-learn-from-floridas-boom"
+                },
+                "children": [{ "data": "Florida", "type": "text" }]
+              },
+              {
+                "data": " contrasted starkly with the tainting of Mr Trump—in the eyes of lots of Republicans, though not of his many die-hard fans—as a loser. Towards the end of the year polls showed Republican primary voters preferring Mr DeSantis over Mr Trump. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+              {
+                "data": "And yet these troubles did not stop Mr Trump ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/11/16/donald-trump-declares-that-he-will-make-america-great-again-again"
+                },
+                "children": [
+                  {
+                    "data": "declaring his candidacy for the presidency",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "data": " in 2024, doing so early in an effort to give himself an air of inevitability (and to make legal assaults on him look like a political witch-hunt). He remains a force to be reckoned with, as America moves into what is normally a year of the “invisible” primary before the actual voting begins in 2024. Mr Trump will not be invisible. And, with Congress divided (and under ",
+                "type": "text"
+              },
+              {
+                "type": "tag",
+                "name": "a",
+                "attribs": {
+                  "href": "https://www.economist.com/united-states/2022/11/30/the-democrats-muster-an-orderly-leadership-succession"
+                },
+                "children": [{ "data": "new leadership", "type": "text" }]
+              },
+              { "data": "), gridlock will surely be back. ", "type": "text" },
+              {
+                "type": "tag",
+                "name": "span",
+                "attribs": { "data-ornament": "ufinish" },
+                "children": [{ "data": "■", "type": "text" }]
+              }
+            ]
+          }
+        ],
+        "bodyText": "GRIDLOCK IS OFTEN the norm in today’s hyper-partisan America. Even when the same party controls both Congress and the White House, as the Democrats have done for the past two years, the need to muster a filibuster-proof three-fifths majority in the Senate for most laws (except some budget bills) tends to bring things to a standstill. Yet in that sense 2022 was an abnormal year: the Biden administration managed to get the legislative traffic moving, with big implications for the future.  \nIt mustered a bipartisan majority to pass the CHIPS and Science Act, a $280bn effort to shore up America’s microchips industry, thanks to growing wariness of China. After unsuccessfully pushing a grand economic redesign of America, the administration eventually compromised enough to overcome the resistance of Joe Manchin of West Virginia, often the swing Democrat in a 50-50 Senate, to pass a more modest, inaptly named Inflation Reduction Act, promising spending of $369bn over a decade. Its climate spending will be the most substantial in American history (in a year when disasters from drought in the West to Hurricane Ian in the East, to a nationwide winter storm at Christmas, served as a reminder of climate perils). Together with an infrastructure package passed in November 2021, the trio of bills will make for annual spending of nearly $100bn on industrial policy, by one reckoning. America could end up spending more, as a share of GDP, on industrial policy than unabashed champions of the practice such as France, Germany and Japan. They and other allies are already starting to fret about the protectionism that Bidenomics could bring about.\nEconomic initiatives were not the only ones that overcame gridlock. For the first time in three decades Congress summoned the will to pass (albeit modest) gun-control measures, after the horror of a school shooting on May 24th in Uvalde, Texas, in which 21 people died, including 19 children. At the end of the year, in Congress’s lame-duck session, it secured federal protection for same-sex marriage, ensuring that gay unions are not dependent on the make-up of the Supreme Court.\nCrucially, too, America maintained a bipartisan consensus in response to Vladimir Putin’s invasion of Ukraine. In the build-up to Mr Putin’s attack the administration made bold and unusually public use of intelligence to flag his plans, deploying the truth against Russian disinformation. Republicans quickly returned to their senses on Russia, shunning the right’s Putin fandom. Despite some misgivings, and ongoing warnings that with a Republican majority in the House of Representatives there will be no “blank cheque”, Congress has approved large dollops–roughly $100bn so far–of aid for Ukraine.  \nNone of this means that partisan divisions have become any less significant. On the contrary, in some ways the country looks ever more like the Disunited States of America, with states diverging fundamentally on policies such as abortion, immigration and environmental rules. State by state, the gap between red and blue blocs has grown wider. On cultural matters, including the teaching of critical race theory in schools, activists on both sides have managed to turn it into a chasm.\nAnd then there is the Supreme Court. In 2022 it faced a growing crisis of legitimacy: in June just 25% of Americans said they had confidence in the court, an all-time low. That month, in its decision on Dobbs v Jackson Women’s Health Organisation, it overturned the constitutional right to abortion that had been established in 1973 in Roe v Wade. For the first time in half a century, it no longer has a 5-4 split, with a swing vote in the middle, but a 6-3 conservative majority thanks to the three justices appointed under Donald Trump’s presidency. Over the past year the consequences have proved to be dramatic—and not just for abortion. In a radical term, the court weakened gun controls, eroded the separation of church and state and limited the Environmental Protection Agency’s ability to regulate emissions from power plants. \nThe composition of the court changed in 2022, but not its conservative-liberal split. President Joe Biden successfully replaced one liberal justice with another, following the retirement of Stephen Breyer, and made history in the process. Ketanji Brown Jackson became the first black woman to serve on America’s highest court.\nAmerica’s divisions were on full display in the campaign for the midterm elections in November, which were the most expensive ever. In the primaries Donald Trump retained his grip on the Republican Party: many of the candidates the former president endorsed, including ones for vital Senate seats in Pennsylvania and Georgia, won through.\nIn the run-up to the general election on November 8th Republicans had plenty to campaign on. Mr Biden’s approval ratings remained low. Voters were increasingly concerned about the economy, especially resurgent inflation (Mr Biden’s excessive stimulus was part of the problem, but so, too, were policy mistakes by the Fed). Other potent issues included immigration and the related problems at America’s southern border, rising violent crime and supposedly rampant wokeness. \nFor their part the Democrats were energised by fears for women’s right to abortion, following the overturning of Roe, and for the very future of democracy, given the Republican Party’s endorsement of Mr Trump’s lies about a “stolen election” in 2020. They also pushed back against their own progressive wing, whose excesses had stirred successful recall campaigns in San Francisco.  \nIt was widely expected that Republicans would comfortably take back control of the House  of Representatives (where a typical midterm loss for the president’s party in the modern era has been about 30 seats) and perhaps of the evenly divided Senate, too. Yet in the event the Republicans only just won the House and the Democrats even picked up a seat in the Senate, thanks to wins over flawed Trumpist candidates. For all the worries in advance, America’s democracy emerged looking stronger. Voters rejected a number of prominent Trumpist election-deniers. And for once the opinion polls, after embarrassing misses in previous election cycles, turned out to be surprisingly accurate.\nPerhaps the biggest loser was Mr Trump. His name was not on the ballot, but many of the high-profile candidates he endorsed lost their races. Mr Trump had a terrible year, and not just by proxy at the polls. Televised congressional hearings into the riots on Capitol Hill on January 6th 2021 were designed to pin the blame firmly on him—with Liz Cheney, a former top Republican in the House, his main accuser. In August the FBI searched his home at Mar-a-Lago, where its agents found boxes of classified documents that the former president had failed to return. In December two Trump Organisation companies were found guilty of tax fraud, and other legal woes mounted. Mr Trump’s biggest problem, perhaps, was the emergence of a serious Republican rival in Ron DeSantis, whose own comfortable re-election as governor of Florida contrasted starkly with the tainting of Mr Trump—in the eyes of lots of Republicans, though not of his many die-hard fans—as a loser. Towards the end of the year polls showed Republican primary voters preferring Mr DeSantis over Mr Trump. \nAnd yet these troubles did not stop Mr Trump declaring his candidacy for the presidency in 2024, doing so early in an effort to give himself an air of inevitability (and to make legal assaults on him look like a political witch-hunt). He remains a force to be reckoned with, as America moves into what is normally a year of the “invisible” primary before the actual voting begins in 2024. Mr Trump will not be invisible. And, with Congress divided (and under new leadership), gridlock will surely be back. ■",
+        "about": { "public": null, "__typename": "Taxonomies" },
+        "print": null,
+        "articleSection": {
+          "public": null,
+          "internal": [
+            {
+              "url": {
+                "canonical": "https://www.economist.com/united-states/",
+                "__typename": "URL"
+              },
+              "__typename": "Content",
+              "id": "/content/h4j4itd8schld2m55dnrjg1ro8nlttoc",
+              "tegID": "h4j4itd8schld2m55dnrjg1ro8nlttoc",
+              "headline": "United States",
+              "hasPart": {
+                "parts": [
+                  {
+                    "url": {
+                      "canonical": "https://www.economist.com/united-states/2022/12/24/the-fraught-art-of-festive-tipping",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/vh8qbviic6lbsdds1ck1t9ouqj2ka4ht",
+                    "type": ["Article", "NewsArticle", "AnalysisNewsArticle"],
+                    "headline": "The fraught art of festive tipping",
+                    "subheadline": "Start spreading the dues",
+                    "datePublished": "2022-12-24T15:18:20Z",
+                    "description": "Holiday gratuities are as New York as bagels and yellow cabs",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20221231_BLP905.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "https://www.economist.com/united-states/2022/12/24/how-america-defies-expectations",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/6dgmfqcij4gc16gi833ucg73lkauvgh3",
+                    "type": ["Article", "NewsArticle", "AnalysisNewsArticle"],
+                    "headline": "How America defies expectations",
+                    "subheadline": "An abnormal year",
+                    "datePublished": "2022-12-24T15:15:20Z",
+                    "description": "In many ways the country has had an exceptional year",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20221224_USP504.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "https://www.economist.com/united-states/2022/12/23/the-house-delivers-its-800-page-report-on-the-january-6th-riot",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/k8id2dj6uirb4f8hm1teqlbssbgk4ov0",
+                    "type": ["Article", "NewsArticle", "AnalysisNewsArticle"],
+                    "headline": "The House delivers its 800-page report on the January 6th riot",
+                    "subheadline": "I am the insurrection",
+                    "datePublished": "2022-12-23T18:15:24Z",
+                    "description": "The plot was familiar, but the committee has added detail, footnotes and a call to prosecute",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20221224_USP505.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "https://www.economist.com/united-states/2022/12/21/volodymyr-zelensky-brings-his-message-to-washington",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/m05p1sghtms334idajcaqv1i1o66d9i8",
+                    "type": ["Article", "NewsArticle", "AnalysisNewsArticle"],
+                    "headline": "Volodymyr Zelensky brings his message to Washington",
+                    "subheadline": "Ammunition and a ride",
+                    "datePublished": "2022-12-21T19:45:30Z",
+                    "description": "The purpose behind the pageantry",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20221224_BLP506.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  },
+                  {
+                    "url": {
+                      "canonical": "https://www.economist.com/united-states/2022/12/20/title-42-might-be-nixed",
+                      "__typename": "URL"
+                    },
+                    "__typename": "Content",
+                    "id": "/content/0pqc7q36lkg1fifl1lje9v65ckl1265s",
+                    "type": ["Article", "NewsArticle", "AnalysisNewsArticle"],
+                    "headline": "Title 42 might be nixed",
+                    "subheadline": "Disorder on the border",
+                    "datePublished": "2022-12-20T16:00:50Z",
+                    "description": "What the end of an obscure public-health order will mean for America’s border",
+                    "image": {
+                      "main": {
+                        "url": {
+                          "canonical": "https://www.economist.com/media-assets/image/20221224_USP001.jpg",
+                          "__typename": "URL"
+                        },
+                        "__typename": "Content",
+                        "width": 1280,
+                        "height": 720
+                      },
+                      "__typename": "Media",
+                      "promo": null
+                    }
+                  }
+                ],
+                "__typename": "HasPart"
+              }
+            }
+          ],
+          "__typename": "Taxonomies"
+        },
+        "publication": null,
+        "channel": {
+          "tegID": "j53t6hsedat4l7rkbb1le98u73262sh5",
+          "__typename": "Content"
+        },
+        "_metadata": {
+          "articleId": "/content/6dgmfqcij4gc16gi833ucg73lkauvgh3",
+          "tegID": "6dgmfqcij4gc16gi833ucg73lkauvgh3",
+          "title": "An abnormal year - How America defies expectations | United States | The Economist",
+          "shareSnippet": "An abnormal year – How America defies expectations",
+          "headline": "How America defies expectations",
+          "section": "United States",
+          "keywords": [],
+          "author": ["The Economist"],
+          "url": "https://www.economist.com/united-states/2022/12/24/how-america-defies-expectations",
+          "type": "Article",
+          "articleBody": "GRIDLOCK IS OFTEN the norm in today’s hyper-partisan America. Even when the same party controls both Congress and the White House, as the Democrats have done for the past two years, the need to muster a filibuster-proof three-fifths majority in the Senate for most laws (except some budget bills) tends to bring things to a standstill. Yet in that sense 2022 was an abnormal year: the Biden administration managed to get the legislative traffic moving, with big implications for the future.  \nIt mustered a bipartisan majority to pass the CHIPS and Science Act, a $280bn effort to shore up America’s microchips industry, thanks to growing wariness of China. After unsuccessfully pushing a grand economic redesign of America, the administration eventually compromised enough to overcome the resistance of Joe Manchin of West Virginia, often the swing Democrat in a 50-50 Senate, to pass a more modest, inaptly named Inflation Reduction Act, promising spending of $369bn over a decade. Its climate spending will be the most substantial in American history (in a year when disasters from drought in the West to Hurricane Ian in the East, to a nationwide winter storm at Christmas, served as a reminder of climate perils). Together with an infrastructure package passed in November 2021, the trio of bills will make for annual spending of nearly $100bn on industrial policy, by one reckoning. America could end up spending more, as a share of GDP, on industrial policy than unabashed champions of the practice such as France, Germany and Japan. They and other allies are already starting to fret about the protectionism that Bidenomics could bring about.\nEconomic initiatives were not the only ones that overcame gridlock. For the first time in three decades Congress summoned the will to pass (albeit modest) gun-control measures, after the horror of a school shooting on May 24th in Uvalde, Texas, in which 21 people died, including 19 children. At the end of the year, in Congress’s lame-duck session, it secured federal protection for same-sex marriage, ensuring that gay unions are not dependent on the make-up of the Supreme Court.\nCrucially, too, America maintained a bipartisan consensus in response to Vladimir Putin’s invasion of Ukraine. In the build-up to Mr Putin’s attack the administration made bold and unusually public use of intelligence to flag his plans, deploying the truth against Russian disinformation. Republicans quickly returned to their senses on Russia, shunning the right’s Putin fandom. Despite some misgivings, and ongoing warnings that with a Republican majority in the House of Representatives there will be no “blank cheque”, Congress has approved large dollops–roughly $100bn so far–of aid for Ukraine.  \nNone of this means that partisan divisions have become any less significant. On the contrary, in some ways the country looks ever more like the Disunited States of America, with states diverging fundamentally on policies such as abortion, immigration and environmental rules. State by state, the gap between red and blue blocs has grown wider. On cultural matters, including the teaching of critical race theory in schools, activists on both sides have managed to turn it into a chasm.\nAnd then there is the Supreme Court. In 2022 it faced a growing crisis of legitimacy: in June just 25% of Americans said they had confidence in the court, an all-time low. That month, in its decision on Dobbs v Jackson Women’s Health Organisation, it overturned the constitutional right to abortion that had been established in 1973 in Roe v Wade. For the first time in half a century, it no longer has a 5-4 split, with a swing vote in the middle, but a 6-3 conservative majority thanks to the three justices appointed under Donald Trump’s presidency. Over the past year the consequences have proved to be dramatic—and not just for abortion. In a radical term, the court weakened gun controls, eroded the separation of church and state and limited the Environmental Protection Agency’s ability to regulate emissions from power plants. \nThe composition of the court changed in 2022, but not its conservative-liberal split. President Joe Biden successfully replaced one liberal justice with another, following the retirement of Stephen Breyer, and made history in the process. Ketanji Brown Jackson became the first black woman to serve on America’s highest court.\nAmerica’s divisions were on full display in the campaign for the midterm elections in November, which were the most expensive ever. In the primaries Donald Trump retained his grip on the Republican Party: many of the candidates the former president endorsed, including ones for vital Senate seats in Pennsylvania and Georgia, won through.\nIn the run-up to the general election on November 8th Republicans had plenty to campaign on. Mr Biden’s approval ratings remained low. Voters were increasingly concerned about the economy, especially resurgent inflation (Mr Biden’s excessive stimulus was part of the problem, but so, too, were policy mistakes by the Fed). Other potent issues included immigration and the related problems at America’s southern border, rising violent crime and supposedly rampant wokeness. \nFor their part the Democrats were energised by fears for women’s right to abortion, following the overturning of Roe, and for the very future of democracy, given the Republican Party’s endorsement of Mr Trump’s lies about a “stolen election” in 2020. They also pushed back against their own progressive wing, whose excesses had stirred successful recall campaigns in San Francisco.  \nIt was widely expected that Republicans would comfortably take back control of the House  of Representatives (where a typical midterm loss for the president’s party in the modern era has been about 30 seats) and perhaps of the evenly divided Senate, too. Yet in the event the Republicans only just won the House and the Democrats even picked up a seat in the Senate, thanks to wins over flawed Trumpist candidates. For all the worries in advance, America’s democracy emerged looking stronger. Voters rejected a number of prominent Trumpist election-deniers. And for once the opinion polls, after embarrassing misses in previous election cycles, turned out to be surprisingly accurate.\nPerhaps the biggest loser was Mr Trump. His name was not on the ballot, but many of the high-profile candidates he endorsed lost their races. Mr Trump had a terrible year, and not just by proxy at the polls. Televised congressional hearings into the riots on Capitol Hill on January 6th 2021 were designed to pin the blame firmly on him—with Liz Cheney, a former top Republican in the House, his main accuser. In August the FBI searched his home at Mar-a-Lago, where its agents found boxes of classified documents that the former president had failed to return. In December two Trump Organisation companies were found guilty of tax fraud, and other legal woes mounted. Mr Trump’s biggest problem, perhaps, was the emergence of a serious Republican rival in Ron DeSantis, whose own comfortable re-election as governor of Florida contrasted starkly with the tainting of Mr Trump—in the eyes of lots of Republicans, though not of his many die-hard fans—as a loser. Towards the end of the year polls showed Republican primary voters preferring Mr DeSantis over Mr Trump. \nAnd yet these troubles did not stop Mr Trump declaring his candidacy for the presidency in 2024, doing so early in an effort to give himself an air of inevitability (and to make legal assaults on him look like a political witch-hunt). He remains a force to be reckoned with, as America moves into what is normally a year of the “invisible” primary before the actual voting begins in 2024. Mr Trump will not be invisible. And, with Congress divided (and under new leadership), gridlock will surely be back. ■",
+          "description": "In many ways the country has had an exceptional year",
+          "ogDescription": "In many ways the country has had an exceptional year",
+          "imageUrl": "https://www.economist.com/media-assets/image/20221224_USP504.jpg",
+          "imageHeight": 720,
+          "imageWidth": 1280,
+          "datePublished": "2022-12-24T15:15:20Z",
+          "dateModified": "2022-12-24T15:15:20Z",
+          "dateCreated": "2022-12-24T15:04:17Z",
+          "isPrintArticle": false,
+          "printEdition": "2022-12-24T15:15:20Z",
+          "copyrightYear": 2022,
+          "dateline": "",
+          "inLanguage": "en",
+          "interactive": false,
+          "scripts": [],
+          "css": []
+        }
+      },
+      "newContent": {},
+      "isCP2Content": false,
+      "statusCode": 200,
+      "paywallCheck": { "shouldDropPaywall": false },
+      "featureFlags": [
+        "SF_SIGNPOSTING",
+        "ESPRESSO_AUDIO",
+        "SOURCEPOINT",
+        "ONBOARDING_NOTIFICATION",
+        "ONBOARDING_GROUP_NOTIFICATION",
+        "OPTIMIZELY_SELF_HOSTING",
+        "LAPSED_USER_NOTIFICATION",
+        "NEW_METADATA",
+        "IN_THIS_REPORT",
+        "REGISTRANT_ONBOARDING",
+        "SAVED_STORIES_SWITCHOVER",
+        "ARTICLE_GIFTING_SWITCHOVER",
+        "SITEMAP"
+      ],
+      "newsletters": {
+        "newsletters": [
+          {
+            "code": "plot_twist",
+            "availableTo": ["core"],
+            "ident": "plot-twist",
+            "title": "Plot Twist",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Plot_Twist?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "plot-twist",
+            "hasPreview": false,
+            "isNew": true,
+            "description": "A weekly conversation about culture. Because culture is a serious business",
+            "promo": {
+              "title": "Plot Twist",
+              "description": "Broaden your perspective with our weekly culture newsletter",
+              "tagline": "Subscriber only"
+            },
+            "keywords": ["Culture"],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "blighty",
+            "availableTo": ["core"],
+            "ident": "blighty",
+            "title": "Blighty",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Blighty?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "blighty",
+            "hasPreview": false,
+            "isNew": true,
+            "description": "Analysing the challenges facing Britain and what needs to be done to overcome them",
+            "promo": {
+              "title": "Stay informed with our weekly Britain newsletter",
+              "description": "Analysing the challenges facing Britain and what needs to be done to overcome them",
+              "tagline": "Subscriber only"
+            },
+            "keywords": ["Britain"],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "drum_tower",
+            "availableTo": ["core"],
+            "ident": "drum-tower",
+            "title": "Drum Tower",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/drumtower?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "drum-tower",
+            "hasPreview": true,
+            "isNew": false,
+            "description": "Understand what the world makes of China—and what China makes of the world",
+            "promo": {
+              "title": "Stay informed with our weekly China newsletter",
+              "description": "Understand what the world makes of China—and what China makes of the world",
+              "tagline": "Subscriber only"
+            },
+            "keywords": ["China"],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "the_bottom_line",
+            "availableTo": ["core"],
+            "ident": "the-bottom-line",
+            "title": "The Bottom Line",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/the_bottom_line?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "the-bottom-line",
+            "hasPreview": true,
+            "description": "Your essential guide to global business and technology",
+            "promo": {
+              "title": "Need to track the megatrends shaping business and technology?",
+              "description": "From supply chains to semiconductors, The Bottom Line newsletter has you covered",
+              "tagline": "Subscriber only"
+            },
+            "keywords": ["Business"],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "espresso",
+            "availableTo": ["espresso", "core"],
+            "ident": "the-world-in-brief",
+            "title": "The World in Brief",
+            "frequency": "Daily",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/the_world_in_brief?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "the-world-in-brief",
+            "hasPreview": true,
+            "description": "Catch up quickly on the global stories that matter",
+            "promo": {
+              "title": "Get Espresso in your inbox",
+              "description": "Our morning briefing, delivered before breakfast six times per week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [],
+            "priority": -1,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "cover_story",
+            "availableTo": ["core"],
+            "ident": "cover-story",
+            "title": "Cover Story",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Cover_Story?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "cover-story",
+            "hasPreview": true,
+            "description": "A behind-the-scenes look at how we chose and designed this week’s cover",
+            "promo": {
+              "title": "How we chose this week’s cover image",
+              "description": "Delivered to your inbox every weekend",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [],
+            "priority": 3,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": true,
+            "live": true
+          },
+          {
+            "code": "checks_and_balance",
+            "availableTo": ["core"],
+            "ident": "checks-and-balance",
+            "title": "Checks and Balance",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Checks_and_Balance?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "checks-and-balance",
+            "hasPreview": true,
+            "description": "Exclusive insight from our correspondents in America",
+            "promo": {
+              "title": "Exclusive insight and reading recommendations from our correspondents in America",
+              "description": "Delivered to your inbox every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "United States",
+              "United States Senate",
+              "Republican Party",
+              "Donald Trump",
+              "Joe Biden",
+              "Democratic Party",
+              "Executive Office of the President of the United States"
+            ],
+            "priority": 6,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "simply_science",
+            "availableTo": ["core"],
+            "ident": "simply-science",
+            "title": "Simply Science",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Simply_Science2?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "simply-science",
+            "hasPreview": true,
+            "description": "A weekly fix of our mind-expanding science coverage",
+            "promo": {
+              "title": "Curious about the world? Enjoy a weekly fix of our mind-expanding science coverage",
+              "description": "Delivered to you every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "science and technology",
+              "Science \u0026 technology",
+              "biology",
+              "astronomy",
+              "philosophy",
+              "chemistry",
+              "diseases and conditions",
+              "genetics",
+              "cancer",
+              "medicine",
+              "physics"
+            ],
+            "priority": 4,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "climate_change",
+            "availableTo": ["core"],
+            "ident": "the-climate-issue",
+            "title": "The Climate Issue",
+            "frequency": "Fortnightly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Climate_issue?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "the-climate-issue",
+            "hasPreview": true,
+            "description": "Climate-change analysis that you won’t read elsewhere in \u003cem\u003eThe Economist\u003c/em\u003e",
+            "promo": {
+              "title": "Climate-change analysis that you won’t read elsewhere in \u003cem\u003eThe Economist\u003c/em\u003e",
+              "description": "Delivered to your inbox every fortnight",
+              "tagline": "Subscriber only"
+            },
+            "keywords": [
+              "energy industry",
+              "migration of people",
+              "weather",
+              "energy and resource",
+              "plant",
+              "synthetic and plastic chemicals",
+              "forestry and timber",
+              "climate change",
+              "global warming",
+              "environment",
+              "environmental politics",
+              "environmental pollution"
+            ],
+            "priority": 5,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "money_talks",
+            "availableTo": ["core"],
+            "ident": "money-talks",
+            "title": "Money Talks",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/money_talks?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "money-talks",
+            "hasPreview": true,
+            "description": "Expert analysis of the biggest stories in economics and markets",
+            "promo": {
+              "title": "Expert analysis of the biggest stories in economics and markets",
+              "description": "Delivered to your inbox every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": ["Finance \u0026 economics"],
+            "priority": 100,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "off_the_charts",
+            "availableTo": ["core"],
+            "ident": "off-the-charts",
+            "title": "Off the Charts",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/Off_the_charts2?oid=00D3z000002JvyiEAC",
+            "tagline": "Subscriber only",
+            "slug": "off-the-charts",
+            "hasPreview": true,
+            "description": "Taking you behind the scenes of our data journalism",
+            "promo": {
+              "title": "Taking you behind the scenes of our data journalism",
+              "description": "Directly to your inbox every week",
+              "tagline": "Subscriber only"
+            },
+            "keywords": ["Graphic detail"],
+            "priority": 99,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "the_extraordinary_story",
+            "availableTo": ["anonymous", "registered", "espresso", "core"],
+            "ident": "the-extraordinary-story",
+            "title": "The Extraordinary Story",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/the_extraordinary_story?oid=00D3z000002JvyiEAC",
+            "slug": "the-extraordinary-story",
+            "hasPreview": true,
+            "description": "Long reads and life from \u003cem\u003e1843 magazine\u003c/em\u003e",
+            "promo": {
+              "title": "Long reads and life from \u003cem\u003e1843 magazine\u003c/em\u003e",
+              "description": "Delivered to your inbox every weekend",
+              "tagline": ""
+            },
+            "keywords": ["1843 magazine"],
+            "priority": 100,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "te_today",
+            "availableTo": ["anonymous", "registered", "espresso", "core"],
+            "ident": "the-economist-today",
+            "title": "The Economist today",
+            "frequency": "Daily",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/The_Economist_Today?oid=00D3z000002JvyiEAC",
+            "slug": "the-economist-today",
+            "hasPreview": true,
+            "description": "The very best of our journalism, handpicked for you each weekday",
+            "promo": {
+              "title": "Handpicked stories, in your inbox",
+              "description": "A daily newsletter with the best of our journalism",
+              "tagline": ""
+            },
+            "keywords": [],
+            "priority": 0,
+            "isKeywordFallback": true,
+            "onboardingPreSelect": false,
+            "live": true
+          },
+          {
+            "code": "te_this_week",
+            "availableTo": ["anonymous", "registered", "espresso", "core"],
+            "ident": "the-economist-this-week",
+            "title": "The Economist this week",
+            "frequency": "Weekly",
+            "imageUrl": "https://myaccount.economist.com/file-asset-public/The_Economist_This_Week?oid=00D3z000002JvyiEAC",
+            "slug": "the-economist-this-week",
+            "hasPreview": true,
+            "description": "Highlights from the latest weekly issue, introduced by our editor",
+            "promo": {
+              "title": "Highlights from the latest weekly issue, introduced by our editor",
+              "description": "Directly to your inbox every week",
+              "tagline": ""
+            },
+            "keywords": [],
+            "priority": 2,
+            "isKeywordFallback": false,
+            "onboardingPreSelect": true,
+            "live": true
+          }
+        ],
+        "status": "ok",
+        "stale": false,
+        "cached": true
+      }
+    }
+  },
+  "page": "/[...slug]",
+  "query": {
+    "slug": [
+      "united-states",
+      "2022",
+      "12",
+      "24",
+      "how-america-defies-expectations"
+    ]
+  },
+  "buildId": "-0QpAojHIAF2up6DEEepG",
+  "assetPrefix": "/engassets",
+  "isFallback": false,
+  "gip": true,
+  "appGip": true,
+  "scriptLoader": []
+}

@@ -90,10 +90,10 @@ $(function () {
         //找出文章内容   ---这里修改好了
         console.log({
           "测试是否有内容:": JSON.parse(nextData[0].textContent).props.pageProps
-            .content[0].text,
+            .content.text,
         });
         let data = JSON.parse(nextData[0].textContent).props.pageProps
-          .content[0].text;
+          .content.text;
         let figureFlag = false;
         let contentParagraph = "";
         for (let i = 0; i < data.length; i++) {
