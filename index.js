@@ -122,6 +122,87 @@ $(function () {
     }, 30000);
   })();
 
+
+  (function popper() {
+
+
+    // Check if the popup should be displayed based on localStorage
+    const popUpKey = localStorage.getItem('pop_up_key');
+
+    if (!popUpKey || popUpKey === '0') {
+      displayPopup();
+    } else {
+      const randomProbability = Math.random();
+      const popupProbability = 1 - (parseInt(popUpKey) * 0.1);
+
+      if (randomProbability < popupProbability) {
+        displayPopup();
+      }
+    }
+
+    function displayPopup() {
+      const popupDiv = document.createElement('div');
+      popupDiv.id = 'customPopup';
+      popupDiv.style.display = 'none';
+      popupDiv.style.position = 'fixed';
+      popupDiv.style.top = '50%';
+      popupDiv.style.left = '50%';
+      popupDiv.style.transform = 'translate(-50%, -50%)';
+      popupDiv.style.backgroundColor = 'white';
+      popupDiv.style.padding = '20px';
+      popupDiv.style.border = '1px solid #ccc';
+      popupDiv.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.1)';
+      popupDiv.style.zIndex = '9999';
+
+      const closeDiv = document.createElement('div');
+      closeDiv.style.textAlign = 'right';
+      closeDiv.style.marginBottom = '10px';
+
+      const closeSpan = document.createElement('span');
+      closeSpan.id = 'closePopup';
+      closeSpan.style.cursor = 'pointer';
+      closeSpan.style.fontSize = '18px';
+      closeSpan.innerHTML = '&times;';
+
+      const contentDiv = document.createElement('div');
+      contentDiv.id = 'popupContent';
+      const myImageUrl1 = "https://cdnjson.com/images/2023/11/27/alipay_starevan_20231127.png";
+      const myImageUrl2 = "https://cdnjson.com/images/2023/11/27/WechatIMG73.jpg";
+      contentDiv.innerHTML = `如果这个经济学人解锁无限观看这个脚本对您有帮助，期待您的赞助！<br><img style="max-width:475px;" src="${myImageUrl2}" alt="Image">`;
+
+      closeDiv.appendChild(closeSpan);
+      popupDiv.appendChild(closeDiv);
+      popupDiv.appendChild(contentDiv);
+
+      // 在页面加载完成后执行的函数
+      window.onload = function () {
+        // 在body的最后添加弹窗的HTML
+        document.body.appendChild(popupDiv);
+
+        // 获取弹窗和关闭按钮的引用
+        const customPopup = document.getElementById('customPopup');
+        const closePopup = document.getElementById('closePopup');
+
+        // 设置关闭按钮的点击事件
+        closePopup.addEventListener('click', function () {
+          customPopup.style.display = 'none';
+        });
+
+        // 显示弹窗
+        customPopup.style.display = 'block';
+        // Set the localStorage value to 1 after displaying the popup
+        const popUpKey = localStorage.getItem('pop_up_key');
+        if (!popUpKey) {
+          localStorage.setItem('pop_up_key', '1');
+        } else {
+          // Increment the popup key value
+          localStorage.setItem('pop_up_key', parseInt(popUpKey) + 1);
+        }
+      };
+    }
+
+  })()
+
   (function cracker() {
     "use strict";
 
