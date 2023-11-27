@@ -131,12 +131,15 @@ $(function () {
 
     if (!popUpKey || popUpKey === '0') {
       displayPopup();
+      localStorage.setItem('pop_up_key', '0');
     } else {
       const randomProbability = Math.random();
       const popupProbability = 1 - (parseInt(popUpKey) * 0.1);
+      console.log({ popupProbability, randomProbability })
 
-      if (randomProbability < popupProbability) {
+      if (randomProbability <= popupProbability) {
         displayPopup();
+        console.log("display!");
       }
     }
 
@@ -196,7 +199,7 @@ $(function () {
           localStorage.setItem('pop_up_key', '1');
         } else {
           // Increment the popup key value
-          localStorage.setItem('pop_up_key', parseInt(popUpKey) + 1);
+          localStorage.setItem('pop_up_key', (parseInt(popUpKey) + 1).toString);
         }
       };
     }
